@@ -1,2 +1,0 @@
-# Kesetimbangan
-Fisika Terapan
